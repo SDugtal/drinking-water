@@ -1,7 +1,3 @@
-// var you = prompt('your name')
-// if(you=="hello"){
-//     alert("you nooob")
-// }
 const smallCups=document.querySelectorAll('.cup-small')
 const listers=document.getElementById('Liters')
 const percentage=document.getElementById('percentage')
